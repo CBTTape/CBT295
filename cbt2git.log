@@ -1,0 +1,5 @@
+2023-08-06 02:45:34.748277 - Initialized conversion of CBT295
+2023-08-06 02:45:34.770003 - Received CBT.V505.FILE295.PDS from FILE295.XMI 
+2023-08-06 02:45:34.772115 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE295.PDS, moved to PDS/$$$#DATE
+2023-08-06 02:45:34.773289 - Found @FILE295.txt (text/plain) in CBT.V505.FILE295.PDS, moved to PDS/@FILE295
+2023-08-06 02:45:34.774254 - Found COMFORT.txt (text/plain) in CBT.V505.FILE295.PDS, moved to PDS/COMFORT
